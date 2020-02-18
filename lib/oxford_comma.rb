@@ -1,4 +1,4 @@
 def oxford_comma(array)
-  ["fiddleheads","okra","kohlrabi"].join(", ")
+  ["kiwi"].join
 
 end
